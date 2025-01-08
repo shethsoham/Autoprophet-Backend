@@ -1,0 +1,21 @@
+{
+  "name": "backend-soham-autoprophet",
+  "version": "1.0.0",
+  "description": "Autoprophet project backend Soham",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "Backend",
+    "server",
+    "side"
+  ],
+  "author": "Soham Sheth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
